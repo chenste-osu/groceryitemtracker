@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239036484590",
+    "project_id": "groceryitemtracker",
+    "storage_bucket": "groceryitemtracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239036484590:android:6037e6897fa6f82fb09cff",
+        "android_client_info": {
+          "package_name": "com.chenste.groceryitemtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239036484590-ubn2ipddlccp08hdr6gk775qpt3oghp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzAGUblcEUkGLxQr7_vu_54XYLGVgcC2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239036484590-ubn2ipddlccp08hdr6gk775qpt3oghp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
