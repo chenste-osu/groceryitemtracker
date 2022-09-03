@@ -1,4 +1,4 @@
-# groceryitemtracker
+# Grocery Item Tracker
 
 A basic Flutter app that keeps track of your grocery purchases
 
