@@ -23,3 +23,4 @@ Tap the plus button at the bottom of the screen to add a post.
 Tap any of the list items to access further details.
 
 
+![details](https://user-images.githubusercontent.com/62896013/188285253-423ebd7f-4f67-4f3a-8362-cc3bab471fae.png)
