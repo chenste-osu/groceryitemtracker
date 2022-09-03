@@ -1,6 +1,6 @@
 # Grocery Item Tracker
 
-A basic Android app built with Flutter that keeps track of your grocery purchases
+A basic Android app built with Flutter and uses Google Firebase to keep track of your grocery purchases
 
 ## Getting Started
 
