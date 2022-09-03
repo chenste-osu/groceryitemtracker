@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.chenste.groceryitemtracker">
+   <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="groceryitemtracker"
         android:name="${applicationName}"

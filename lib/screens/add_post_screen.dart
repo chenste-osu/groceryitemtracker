@@ -167,6 +167,9 @@ class _AddPostScreenState extends State<AddPostScreen> {
           label: 'Send New Grocer Post to Cloud',
           child: ElevatedButton(
             onPressed: () async {
+              if (!mounted) return;
+              Navigator.pop(context);
+
               if (_formKey.currentState!.validate()) {
                 _formKey.currentState!.save();
                 newPost.date = timeNow;
@@ -183,8 +186,6 @@ class _AddPostScreenState extends State<AddPostScreen> {
                 });
 
                 sendAnalyticsPost(newPost);
-                if (!mounted) return;
-                Navigator.pop(context);
               }
             },
             child: const Text('Add Grocer Post'),

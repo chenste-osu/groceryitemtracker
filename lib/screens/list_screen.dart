@@ -87,19 +87,19 @@ class _ListScreenState extends State<ListScreen> {
             children: [
               Flexible(
                 flex: 1,
-                child: Text(dateFormat.format(postFromDoc.date)),
+                child: SizedBox(
+                    width: 100,
+                    child: Text(dateFormat.format(postFromDoc.date))),
               ),
-              SizedBox(
-                width: 170,
-                child: Flexible(
-                  flex: 2,
-                  child: Text(postFromDoc.description),
-                ),
+              Flexible(
+                flex: 2,
+                child:
+                    SizedBox(width: 200, child: Text(postFromDoc.description)),
               ),
-              SizedBox(
-                  width: 60,
-                  child:
-                      Flexible(flex: 1, child: Text('\$ ${postFromDoc.cost}')))
+              Flexible(
+                  flex: 1,
+                  child: SizedBox(
+                      width: 60, child: Text('\$ ${postFromDoc.cost}')))
             ],
           ),
           onTap: () {
