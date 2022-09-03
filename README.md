@@ -14,12 +14,12 @@ For physical deivces, copy the APK over to the device and open the APK.
 
 Upon starting the app, there will be a list of dates with the grocery description and cost. 
 
-![Screenshot_1661558785](https://user-images.githubusercontent.com/62896013/188285087-1aa7cd56-4a4d-4703-8c16-39308b2cd52b.png | height=100)
+
+![buildlist](https://user-images.githubusercontent.com/62896013/188285241-06de8d8c-c478-4158-931d-cabf348e8717.png)
 
 Tap the plus button at the bottom of the screen to add a post.
 
-![Screenshot_1661558848](https://user-images.githubusercontent.com/62896013/188285016-2ce5927c-e40d-43fb-b7b3-fc4e52c7be54.png)
 
 Tap any of the list items to access further details.
 
-![Screenshot_1661558797](https://user-images.githubusercontent.com/62896013/188285014-7c3f6ab7-c2f1-476a-85d6-875d03e315e8.png)
+
