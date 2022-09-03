@@ -1,17 +1,12 @@
 # groceryitemtracker
 
-A new Flutter project.
+A basic Flutter app that keeps track of your grocery purchases
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download and install one of the release APKs depending on your device architecture.
 
-A few resources to get you started if this is your first Flutter project:
+For Andoird emulators simply drag and drop the APK on top of the emulator.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# groceryitemtracker
+
