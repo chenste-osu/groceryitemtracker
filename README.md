@@ -4,7 +4,7 @@ A basic Android app built with Flutter and uses Google Firebase to keep track of
 
 ## Getting Started
 
-Navigate to releases on the right-hand sidebar and download one of the release APKs depending on your device architecture.
+Navigate to releases on the right-hand sidebar and download one of the pre-release APKs depending on your device architecture.
 
 For Andoird emulators simply drag and drop the APK on top of the emulator.
 
